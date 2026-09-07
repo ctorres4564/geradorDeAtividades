@@ -1,0 +1,734 @@
+{
+  "versao": "1.0",
+  "idioma": "pt-BR",
+  "data": "2026-09-06",
+  "escopo": "Exclusivamente as 18 ideias do grupo A do levantamento anterior.",
+  "nota_editorial": "Preparação, duração e opções de facilitação e ampliação são escolhas editoriais para a mesma ideia, não instruções validadas individualmente pelas fontes. Não foram incorporadas ideias dos grupos B ou C.",
+  "direitos": "Referências bibliográficas não concedem licença para reproduzir ou adaptar o material original. Fichas redigidas de forma própria; revisão de direitos continua necessária antes de publicação. Não há conteúdo protegido obrigatório embutido.",
+  "revisao": {
+    "excluidas": [],
+    "pontos_de_atencao": [
+      {
+        "ids": [
+          "A02",
+          "A03"
+        ],
+        "nota": "Manter como conversa espontânea, sem metas de resposta, contagem de participações ou exigência de repetição."
+      },
+      {
+        "ids": [
+          "A05",
+          "A06",
+          "A19",
+          "A20"
+        ],
+        "nota": "Apoio à interação anterior às primeiras palavras; não apresentar como produção verbal esperada."
+      },
+      {
+        "ids": [
+          "A08"
+        ],
+        "nota": "A fonte não define idade específica para a proposta de lembrança. Ajustar a participação ao interesse, sem esperar relato de bebês."
+      },
+      {
+        "ids": [
+          "A09",
+          "A13",
+          "A23"
+        ],
+        "nota": "Não usar respostas para pontuar memória, inferir estados pessoais ou avaliar sons."
+      }
+    ]
+  },
+  "atividades": [
+    {
+      "id": "A01",
+      "ideia_original": 1,
+      "grupo_original": "A",
+      "nome": "Seu assunto",
+      "categoria": "Conversa e interação",
+      "faixa_etaria_fonte": "Bebês, crianças pequenas e pré-escolares; F01 não fixa um intervalo numérico.",
+      "habilidade_relacionada": "Expressão de interesses",
+      "objetivo_educativo": "Oferecer espaço para compartilhar algo que despertou interesse.",
+      "materiais_necessarios": "Nenhum obrigatório.",
+      "preparacao": "Fique por perto, em uma posição confortável para ambos.",
+      "passo_a_passo": [
+        "Observe o que chama a atenção da criança.",
+        "Faça um comentário curto sobre isso.",
+        "Acolha sua participação e acompanhe o assunto enquanto houver interesse."
+      ],
+      "duracao_aproximada": "2–5 minutos",
+      "como_facilitar": "Faça apenas um comentário e acolha um olhar, movimento ou som.",
+      "como_tornar_mais_desafiadora": "Acrescente um detalhe ao mesmo assunto e deixe espaço para uma nova participação.",
+      "o_que_evitar": "Mudar o assunto à força ou fazer perguntas em sequência.",
+      "observacao_seguranca": "Não obrigue a criança a olhar para você.",
+      "fontes": [
+        {
+          "id": "F01",
+          "titulo": "Engaging Children in Conversations",
+          "instituicao": "Head Start",
+          "url": "https://headstart.gov/teaching-practices/article/engaging-children-conversations"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A02",
+      "ideia_original": 2,
+      "grupo_original": "A",
+      "nome": "Minha vez, sua vez",
+      "categoria": "Conversa e interação",
+      "faixa_etaria_fonte": "Crianças pequenas; F01 inclui bebês a pré-escolares e F05 não fixa intervalo numérico.",
+      "habilidade_relacionada": "Alternância de participações",
+      "objetivo_educativo": "Vivenciar uma troca em que cada pessoa encontra espaço para participar.",
+      "materiais_necessarios": "Nenhum.",
+      "preparacao": "Escolha um momento tranquilo de contato.",
+      "passo_a_passo": [
+        "Acolha uma iniciativa da criança ou faça um comentário.",
+        "Espere sem contar o tempo em voz alta.",
+        "Responda ao que ela comunicar.",
+        "Continue somente se ela demonstrar interesse."
+      ],
+      "duracao_aproximada": "1–3 minutos",
+      "como_facilitar": "Use uma troca curta, acompanhada de expressão facial acolhedora.",
+      "como_tornar_mais_desafiadora": "Continue a conversa por mais uma troca sobre o mesmo assunto.",
+      "o_que_evitar": "Usar silêncio como cobrança ou condicionar algo à resposta.",
+      "observacao_seguranca": "Respeite sinais de cansaço e de vontade de parar.",
+      "fontes": [
+        {
+          "id": "F01",
+          "titulo": "Engaging Children in Conversations",
+          "instituicao": "Head Start",
+          "url": "https://headstart.gov/teaching-practices/article/engaging-children-conversations"
+        },
+        {
+          "id": "F05",
+          "titulo": "5 Steps for Brain-Building Serve and Return",
+          "instituicao": "Center on the Developing Child, Harvard University",
+          "url": "https://developingchild.harvard.edu/wp-content/uploads/2024/10/HCDC_ServeReturn_for_Parents_Caregivers_2019.pdf"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A03",
+      "ideia_original": 3,
+      "grupo_original": "A",
+      "nome": "Uma ideia a mais",
+      "categoria": "Conversa e interação",
+      "faixa_etaria_fonte": "F03: 1–3 anos; F01 também abrange bebês e pré-escolares.",
+      "habilidade_relacionada": "Vocabulário e elaboração de mensagens",
+      "objetivo_educativo": "Ouvir um pequeno acréscimo relacionado ao que a criança comunicou.",
+      "materiais_necessarios": "Nenhum.",
+      "preparacao": "Acompanhe uma brincadeira ou conversa já iniciada.",
+      "passo_a_passo": [
+        "Observe uma palavra, gesto, som ou apontar da criança.",
+        "Responda acrescentando um detalhe ao assunto.",
+        "Espere e acolha qualquer participação.",
+        "Continue sem pedir que ela reproduza sua fala."
+      ],
+      "duracao_aproximada": "2–4 minutos",
+      "como_facilitar": "Use apenas uma palavra ou comentário breve.",
+      "como_tornar_mais_desafiadora": "Acrescente uma ação ao comentário, se combinar com a situação.",
+      "o_que_evitar": "Substituir a mensagem da criança por uma versão que ela tenha de repetir.",
+      "observacao_seguranca": "Não apresente essa proposta como tarefa de acerto.",
+      "fontes": [
+        {
+          "id": "F01",
+          "titulo": "Engaging Children in Conversations",
+          "instituicao": "Head Start",
+          "url": "https://headstart.gov/teaching-practices/article/engaging-children-conversations"
+        },
+        {
+          "id": "F03",
+          "titulo": "Language and play: toddlers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/toddlers/play-learning/play-toddler-development/talking-play-toddlers"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A04",
+      "ideia_original": 4,
+      "grupo_original": "A",
+      "nome": "Conversa do dia",
+      "categoria": "Rotina cotidiana",
+      "faixa_etaria_fonte": "F02: nascimento a 3 anos; F03: 1–3 anos; F09: bebês e primeira infância, sem intervalo único.",
+      "habilidade_relacionada": "Palavras de ações e objetos",
+      "objetivo_educativo": "Compartilhar palavras e comentários relacionados a uma situação cotidiana.",
+      "materiais_necessarios": "Roupas limpas ou outros objetos seguros já presentes.",
+      "preparacao": "Escolha uma tarefa simples, como guardar roupas, sem produtos ou utensílios perigosos.",
+      "passo_a_passo": [
+        "Comente uma ação enquanto a realiza.",
+        "Mostre o objeto envolvido, se houver interesse.",
+        "Dê espaço para a criança participar como preferir.",
+        "Responda e siga a rotina naturalmente."
+      ],
+      "duracao_aproximada": "2–5 minutos, dentro da rotina",
+      "como_facilitar": "Fale sobre um único objeto.",
+      "como_tornar_mais_desafiadora": "Relacione duas ações da mesma tarefa em um comentário curto.",
+      "o_que_evitar": "Falar sem pausas ou exigir que a criança execute a tarefa.",
+      "observacao_seguranca": "Mantenha produtos de limpeza, objetos cortantes e itens quentes fora da atividade.",
+      "fontes": [
+        {
+          "id": "F02",
+          "titulo": "Help your baby learn to talk",
+          "instituicao": "NHS",
+          "url": "https://www.nhs.uk/baby/babys-development/play-and-learning/help-your-baby-learn-to-talk/"
+        },
+        {
+          "id": "F03",
+          "titulo": "Language and play: toddlers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/toddlers/play-learning/play-toddler-development/talking-play-toddlers"
+        },
+        {
+          "id": "F09",
+          "titulo": "Sugestões de Ações Educativas",
+          "instituicao": "Prefeitura de Jundiaí",
+          "url": "https://primeirainfancia.jundiai.sp.gov.br/campanhas/educacao-e-desenvolvimento-infantil/sugestoes-de-acoes-educativas/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A05",
+      "ideia_original": 5,
+      "grupo_original": "A",
+      "nome": "Sons em conversa",
+      "categoria": "Sons e palavras",
+      "faixa_etaria_fonte": "F06: conversa com sons na seção de 2 meses; F10 e F11: 0–12 meses.",
+      "habilidade_relacionada": "Participação por vocalizações",
+      "objetivo_educativo": "Compartilhar uma troca acolhedora a partir dos sons espontâneos do bebê.",
+      "materiais_necessarios": "Nenhum.",
+      "preparacao": "Aproxime-se quando o bebê estiver acordado e disponível para contato.",
+      "passo_a_passo": [
+        "Perceba um som espontâneo do bebê.",
+        "Responda suavemente com um som ou comentário.",
+        "Faça uma pausa.",
+        "Continue apenas se o bebê estiver confortável."
+      ],
+      "duracao_aproximada": "1–3 minutos",
+      "como_facilitar": "Responda com uma expressão acolhedora e um único som.",
+      "como_tornar_mais_desafiadora": "Acompanhe outra iniciativa do bebê com uma resposta ligeiramente diferente.",
+      "o_que_evitar": "Pedir sons específicos ou insistir quando o bebê se afasta.",
+      "observacao_seguranca": "Use volume suave; não interrompa sono, alimentação ou necessidades de conforto.",
+      "fontes": [
+        {
+          "id": "F06",
+          "titulo": "21 learning activities for babies and toddlers",
+          "instituicao": "UNICEF",
+          "url": "https://www.unicef.org/parenting/child-care/21-learning-activities-babies-and-toddlers"
+        },
+        {
+          "id": "F10",
+          "titulo": "Supporting Language and Literacy Skills from 0–12 Months",
+          "instituicao": "ZERO TO THREE",
+          "url": "https://www.zerotothree.org/resource/supporting-language-and-literacy-skills-from-0-12-months/"
+        },
+        {
+          "id": "F11",
+          "titulo": "Speech and language development from birth to 12 months",
+          "instituicao": "Great Ormond Street Hospital",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/procedures-and-treatments/speech-and-language-development-birth-12-months/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A06",
+      "ideia_original": 6,
+      "grupo_original": "A",
+      "nome": "Olha isso",
+      "categoria": "Conversa e interação",
+      "faixa_etaria_fonte": "F11: 0–12 meses; F05: crianças pequenas, sem intervalo numérico.",
+      "habilidade_relacionada": "Palavras ligadas ao foco de interesse",
+      "objetivo_educativo": "Compartilhar o nome de algo que a criança percebeu.",
+      "materiais_necessarios": "Um objeto seguro do ambiente, se necessário.",
+      "preparacao": "Observe sem direcionar o olhar ou o corpo da criança.",
+      "passo_a_passo": [
+        "Perceba o objeto ou a ação que chamou atenção.",
+        "Diga seu nome de maneira breve.",
+        "Espere e acolha a participação.",
+        "Acompanhe uma mudança de interesse, se acontecer."
+      ],
+      "duracao_aproximada": "1–3 minutos",
+      "como_facilitar": "Nomeie apenas o objeto.",
+      "como_tornar_mais_desafiadora": "Acrescente um detalhe visível, sem pedir resposta.",
+      "o_que_evitar": "Exigir que a criança aponte, nomeie ou olhe para o adulto.",
+      "observacao_seguranca": "Não entregue objetos pequenos, frágeis ou perigosos para manter o interesse.",
+      "fontes": [
+        {
+          "id": "F05",
+          "titulo": "5 Steps for Brain-Building Serve and Return",
+          "instituicao": "Center on the Developing Child, Harvard University",
+          "url": "https://developingchild.harvard.edu/wp-content/uploads/2024/10/HCDC_ServeReturn_for_Parents_Caregivers_2019.pdf"
+        },
+        {
+          "id": "F11",
+          "titulo": "Speech and language development from birth to 12 months",
+          "instituicao": "Great Ormond Street Hospital",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/procedures-and-treatments/speech-and-language-development-birth-12-months/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A07",
+      "ideia_original": 7,
+      "grupo_original": "A",
+      "nome": "Conversa nas páginas",
+      "categoria": "Livros e histórias",
+      "faixa_etaria_fonte": "F02: bebês e crianças pequenas; F06: olhar livros na seção de 4 meses.",
+      "habilidade_relacionada": "Vocabulário e comentários sobre imagens",
+      "objetivo_educativo": "Compartilhar descobertas ao olhar ilustrações.",
+      "materiais_necessarios": "Livro adequado à idade, próprio ou emprestado; não precisa ser uma obra específica.",
+      "preparacao": "Escolha poucas páginas com imagens fáceis de observar.",
+      "passo_a_passo": [
+        "Abra uma página que interesse à criança.",
+        "Comente algo da imagem.",
+        "Acolha fala, gesto, som ou apontar.",
+        "Continue ou feche o livro conforme o interesse."
+      ],
+      "duracao_aproximada": "3–5 minutos",
+      "como_facilitar": "Observe uma única imagem.",
+      "como_tornar_mais_desafiadora": "Converse sobre uma ação ou detalhe adicional da mesma página.",
+      "o_que_evitar": "Cobrar nomes, ler até o fim por obrigação ou pedir respostas em sequência.",
+      "observacao_seguranca": "Para bebês, use livro resistente e sem partes destacáveis. Não reproduza suas páginas na ferramenta sem autorização.",
+      "fontes": [
+        {
+          "id": "F02",
+          "titulo": "Help your baby learn to talk",
+          "instituicao": "NHS",
+          "url": "https://www.nhs.uk/baby/babys-development/play-and-learning/help-your-baby-learn-to-talk/"
+        },
+        {
+          "id": "F06",
+          "titulo": "21 learning activities for babies and toddlers",
+          "instituicao": "UNICEF",
+          "url": "https://www.unicef.org/parenting/child-care/21-learning-activities-babies-and-toddlers"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A08",
+      "ideia_original": 8,
+      "grupo_original": "A",
+      "nome": "Lembra daquele dia?",
+      "categoria": "Rotina cotidiana",
+      "faixa_etaria_fonte": "F01: bebês, crianças pequenas e pré-escolares; sem idade específica para recordar experiências.",
+      "habilidade_relacionada": "Relato de experiências",
+      "objetivo_educativo": "Compartilhar a lembrança de uma situação familiar.",
+      "materiais_necessarios": "Nenhum obrigatório.",
+      "preparacao": "Escolha uma experiência recente e agradável, sem assunto sensível.",
+      "passo_a_passo": [
+        "Mencione brevemente algo que vocês viveram.",
+        "Deixe espaço para a criança participar.",
+        "Acolha o que ela comunicar sem conferir detalhes.",
+        "Conclua quando ela mudar de assunto ou quiser parar."
+      ],
+      "duracao_aproximada": "2–5 minutos",
+      "como_facilitar": "O adulto conta uma parte e acolhe qualquer manifestação.",
+      "como_tornar_mais_desafiadora": "Convide, sem insistir, a acrescentar outro acontecimento ou detalhe.",
+      "o_que_evitar": "Testar a memória, exigir ordem ou insistir em lembranças desconfortáveis.",
+      "observacao_seguranca": "Não peça informações pessoais para registrar ou publicar na ferramenta.",
+      "fontes": [
+        {
+          "id": "F01",
+          "titulo": "Engaging Children in Conversations",
+          "instituicao": "Head Start",
+          "url": "https://headstart.gov/teaching-practices/article/engaging-children-conversations"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A09",
+      "ideia_original": 9,
+      "grupo_original": "A",
+      "nome": "História do seu jeito",
+      "categoria": "Livros e histórias",
+      "faixa_etaria_fonte": "F04: 3–5 anos.",
+      "habilidade_relacionada": "Narrativa e sequência de acontecimentos",
+      "objetivo_educativo": "Oferecer espaço para compartilhar uma história conhecida de maneira própria.",
+      "materiais_necessarios": "História curta já conhecida; livro opcional.",
+      "preparacao": "Escolha uma história apreciada pela criança, sem depender de personagens específicos.",
+      "passo_a_passo": [
+        "Lembre brevemente qual é a história.",
+        "Convide a criança a mostrar ou contar uma parte.",
+        "Acompanhe suas palavras, gestos ou sons.",
+        "Ajude apenas se ela desejar e encerre livremente."
+      ],
+      "duracao_aproximada": "3–6 minutos",
+      "como_facilitar": "O adulto conta e deixa espaço para uma participação em qualquer trecho.",
+      "como_tornar_mais_desafiadora": "Convide a incluir mais um acontecimento ou detalhe, sem exigir sequência.",
+      "o_que_evitar": "Exigir reprodução fiel, impor a ordem dos acontecimentos ou completar tudo pela criança.",
+      "observacao_seguranca": "Use apenas conteúdo próprio ou autorizado se a história for incluída no aplicativo.",
+      "fontes": [
+        {
+          "id": "F04",
+          "titulo": "Language and play: preschoolers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/preschoolers/play-learning/play-preschooler-development/talking-play-preschoolers"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A11",
+      "ideia_original": 11,
+      "grupo_original": "A",
+      "nome": "Uma imagem, uma história",
+      "categoria": "Livros e histórias",
+      "faixa_etaria_fonte": "F07: pré-escolares; sem idade numérica confirmada no levantamento.",
+      "habilidade_relacionada": "Criação de narrativa",
+      "objetivo_educativo": "Explorar acontecimentos possíveis a partir de uma imagem.",
+      "materiais_necessarios": "Desenho próprio ou imagem com autorização de uso.",
+      "preparacao": "Escolha uma imagem simples, sem conteúdo assustador.",
+      "passo_a_passo": [
+        "Observem a imagem juntos.",
+        "O adulto pode começar com um acontecimento curto.",
+        "Convide a criança a participar como preferir.",
+        "Acompanhe sua contribuição e deem um final se quiserem."
+      ],
+      "duracao_aproximada": "3–6 minutos",
+      "como_facilitar": "Conte uma frase e aceite um gesto ou som como participação.",
+      "como_tornar_mais_desafiadora": "Convide a acrescentar uma ação ou um novo acontecimento à mesma história.",
+      "o_que_evitar": "Determinar uma única história certa ou cobrar frases completas.",
+      "observacao_seguranca": "Não use imagens pessoais ou materiais de terceiros sem autorização.",
+      "fontes": [
+        {
+          "id": "F07",
+          "titulo": "8 Speech and Language Skills to Practice With Your Preschooler at Home",
+          "instituicao": "ASHA",
+          "url": "https://www.asha.org/about/press-room/articles/8-speech-and-language-skills-to-practice-with-your-preschooler-at-home/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A12",
+      "ideia_original": 12,
+      "grupo_original": "A",
+      "nome": "Agora sou o personagem",
+      "categoria": "Faz de conta",
+      "faixa_etaria_fonte": "F07: pré-escolares; sem idade numérica confirmada no levantamento.",
+      "habilidade_relacionada": "Diálogo e expressão de personagens",
+      "objetivo_educativo": "Explorar uma cena por meio de palavras, gestos e ações.",
+      "materiais_necessarios": "Nenhum obrigatório; história conhecida ou criada pelo adulto.",
+      "preparacao": "Escolha uma cena tranquila e deixe espaço livre para os movimentos.",
+      "passo_a_passo": [
+        "O adulto representa brevemente um personagem.",
+        "Convide a criança a participar ou observar.",
+        "Respondam às ações um do outro dentro da cena.",
+        "Troquem de papel somente se houver vontade."
+      ],
+      "duracao_aproximada": "3–6 minutos",
+      "como_facilitar": "Deixe a criança observar e participar com um gesto.",
+      "como_tornar_mais_desafiadora": "Proponha trocar os papéis ou prolongar um pouco o diálogo.",
+      "o_que_evitar": "Cobrar apresentação, imitação exata ou fala decorada.",
+      "observacao_seguranca": "Dispense máscaras, cordões e acessórios pequenos; não use cenas de susto ou contato físico indesejado.",
+      "fontes": [
+        {
+          "id": "F07",
+          "titulo": "8 Speech and Language Skills to Practice With Your Preschooler at Home",
+          "instituicao": "ASHA",
+          "url": "https://www.asha.org/about/press-room/articles/8-speech-and-language-skills-to-practice-with-your-preschooler-at-home/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A13",
+      "ideia_original": 13,
+      "grupo_original": "A",
+      "nome": "Como ele se sente?",
+      "categoria": "Livros e histórias",
+      "faixa_etaria_fonte": "F04: 3–5 anos.",
+      "habilidade_relacionada": "Vocabulário de sentimentos e expressão de ideias",
+      "objetivo_educativo": "Conversar sobre sentimentos possíveis em uma história.",
+      "materiais_necessarios": "História conhecida ou livro; não depende de obra específica.",
+      "preparacao": "Escolha uma situação simples e emocionalmente confortável.",
+      "passo_a_passo": [
+        "Conte ou leia uma pequena parte.",
+        "Comente um sentimento possível do personagem.",
+        "Convide a criança a mostrar o que pensa, se quiser.",
+        "Acolha outras interpretações sem escolher uma resposta certa."
+      ],
+      "duracao_aproximada": "3–5 minutos",
+      "como_facilitar": "O adulto nomeia um sentimento e acolhe qualquer reação.",
+      "como_tornar_mais_desafiadora": "Converse sobre o acontecimento que pode estar ligado ao sentimento.",
+      "o_que_evitar": "Usar a resposta para tirar conclusões sobre a criança ou pedir relatos pessoais.",
+      "observacao_seguranca": "Pare se o assunto causar desconforto; não force lembranças próprias.",
+      "fontes": [
+        {
+          "id": "F04",
+          "titulo": "Language and play: preschoolers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/preschoolers/play-learning/play-preschooler-development/talking-play-preschoolers"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A15",
+      "ideia_original": 15,
+      "grupo_original": "A",
+      "nome": "Vamos brincar juntos",
+      "categoria": "Faz de conta",
+      "faixa_etaria_fonte": "F03: 1–3 anos; F04: 3–5 anos.",
+      "habilidade_relacionada": "Expressão espontânea no brincar",
+      "objetivo_educativo": "Compartilhar uma situação de faz de conta conduzida pela criança.",
+      "materiais_necessarios": "Brinquedos adequados à idade, grandes e sem peças pequenas ou soltas.",
+      "preparacao": "Deixe poucos brinquedos acessíveis em um local livre de obstáculos.",
+      "passo_a_passo": [
+        "Observe o que a criança começa a brincar.",
+        "Entre na situação com uma ação simples.",
+        "Faça um comentário ligado à brincadeira.",
+        "Acompanhe suas iniciativas e pare quando ela quiser."
+      ],
+      "duracao_aproximada": "4–8 minutos",
+      "como_facilitar": "Participe ao lado dela com uma ação parecida.",
+      "como_tornar_mais_desafiadora": "Acrescente uma ação ligada ao faz de conta, sem tomar o controle.",
+      "o_que_evitar": "Mudar a brincadeira para ensinar uma lista de palavras ou exigir fala.",
+      "observacao_seguranca": "Confira integridade e indicação etária dos brinquedos; retire peças destacáveis pequenas.",
+      "fontes": [
+        {
+          "id": "F03",
+          "titulo": "Language and play: toddlers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/toddlers/play-learning/play-toddler-development/talking-play-toddlers"
+        },
+        {
+          "id": "F04",
+          "titulo": "Language and play: preschoolers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/preschoolers/play-learning/play-preschooler-development/talking-play-preschoolers"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A16",
+      "ideia_original": 16,
+      "grupo_original": "A",
+      "nome": "Passeio de faz de conta",
+      "categoria": "Faz de conta",
+      "faixa_etaria_fonte": "F03: 1–3 anos.",
+      "habilidade_relacionada": "Expressão de ações e destinos",
+      "objetivo_educativo": "Compartilhar ideias dentro de uma viagem de brincadeira.",
+      "materiais_necessarios": "Nenhum obrigatório; veículo de brinquedo grande e íntegro é opcional.",
+      "preparacao": "Acompanhe uma brincadeira de dirigir iniciada pela criança.",
+      "passo_a_passo": [
+        "Entre no passeio como participante.",
+        "Comente o movimento ou o destino que surgir.",
+        "Dê espaço para a criança mostrar o rumo por qualquer forma de comunicação.",
+        "Siga a situação criada por ela."
+      ],
+      "duracao_aproximada": "3–5 minutos",
+      "como_facilitar": "Acompanhe com gestos e comentários curtos.",
+      "como_tornar_mais_desafiadora": "Conversem sobre algo que acontece durante o passeio.",
+      "o_que_evitar": "Transformar o passeio em perguntas sobre lugares ou tomar todas as decisões.",
+      "observacao_seguranca": "Brinquem no chão; não use veículo real, cadeiras empilhadas ou peças pequenas.",
+      "fontes": [
+        {
+          "id": "F03",
+          "titulo": "Language and play: toddlers",
+          "instituicao": "Raising Children Network",
+          "url": "https://raisingchildren.net.au/toddlers/play-learning/play-toddler-development/talking-play-toddlers"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A17",
+      "ideia_original": 17,
+      "grupo_original": "A",
+      "nome": "Cantiga com gestos",
+      "categoria": "Sons e palavras",
+      "faixa_etaria_fonte": "F02: bebês e crianças pequenas; a página abrange nascimento a 3 anos.",
+      "habilidade_relacionada": "Participação com sons, palavras e gestos",
+      "objetivo_educativo": "Compartilhar uma canção breve acompanhada de movimentos voluntários.",
+      "materiais_necessarios": "Nenhum; canção própria ou de uso autorizado se fornecida pelo aplicativo.",
+      "preparacao": "Escolha uma cantiga curta e espaço confortável.",
+      "passo_a_passo": [
+        "Cante suavemente um pequeno trecho.",
+        "Mostre um gesto simples que combine com a cantiga.",
+        "Acolha observar, mover-se, vocalizar ou cantar.",
+        "Repita apenas se houver interesse."
+      ],
+      "duracao_aproximada": "2–4 minutos",
+      "como_facilitar": "Use um trecho curto e apenas um gesto.",
+      "como_tornar_mais_desafiadora": "Acrescente outro gesto à mesma cantiga, se a criança quiser.",
+      "o_que_evitar": "Mover os braços da criança à força ou cobrar que acompanhe.",
+      "observacao_seguranca": "Evite sons altos, movimentos bruscos e letras ou gravações não autorizadas no aplicativo.",
+      "fontes": [
+        {
+          "id": "F02",
+          "titulo": "Help your baby learn to talk",
+          "instituicao": "NHS",
+          "url": "https://www.nhs.uk/baby/babys-development/play-and-learning/help-your-baby-learn-to-talk/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A19",
+      "ideia_original": 19,
+      "grupo_original": "A",
+      "nome": "Vozes na história",
+      "categoria": "Livros e histórias",
+      "faixa_etaria_fonte": "F10: 0–12 meses.",
+      "habilidade_relacionada": "Interesse pela expressão vocal",
+      "objetivo_educativo": "Compartilhar diferentes maneiras de dar voz a uma história.",
+      "materiais_necessarios": "Livro adequado ao bebê ou história contada pelo adulto.",
+      "preparacao": "Escolha uma história breve e uma posição confortável.",
+      "passo_a_passo": [
+        "Conte um pequeno trecho com voz suave.",
+        "Varie levemente a voz de um personagem.",
+        "Faça uma pausa e observe a reação do bebê.",
+        "Continue apenas enquanto houver conforto e interesse."
+      ],
+      "duracao_aproximada": "2–4 minutos",
+      "como_facilitar": "Use uma única variação suave.",
+      "como_tornar_mais_desafiadora": "Acrescente outra voz suave, sem aumentar o volume.",
+      "o_que_evitar": "Assustar, falar muito alto ou pedir imitação.",
+      "observacao_seguranca": "Evite vozes intensas e mudanças bruscas; livro sem partes pequenas destacáveis.",
+      "fontes": [
+        {
+          "id": "F10",
+          "titulo": "Supporting Language and Literacy Skills from 0–12 Months",
+          "instituicao": "ZERO TO THREE",
+          "url": "https://www.zerotothree.org/resource/supporting-language-and-literacy-skills-from-0-12-months/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A20",
+      "ideia_original": 20,
+      "grupo_original": "A",
+      "nome": "Nosso dia em história",
+      "categoria": "Rotina cotidiana",
+      "faixa_etaria_fonte": "F10: 0–12 meses.",
+      "habilidade_relacionada": "Contato com linguagem narrativa cotidiana",
+      "objetivo_educativo": "Compartilhar com o bebê uma pequena história sobre algo familiar.",
+      "materiais_necessarios": "Nenhum.",
+      "preparacao": "Escolha um acontecimento simples do dia.",
+      "passo_a_passo": [
+        "Conte brevemente o que aconteceu.",
+        "Mencione uma pessoa, lugar ou ação familiar.",
+        "Faça uma pausa para acolher a participação do bebê.",
+        "Conclua sem esperar que ele reconte."
+      ],
+      "duracao_aproximada": "1–3 minutos",
+      "como_facilitar": "Conte apenas uma frase.",
+      "como_tornar_mais_desafiadora": "Ligue duas ações familiares em uma pequena sequência narrada pelo adulto.",
+      "o_que_evitar": "Esperar um relato do bebê ou prolongar a história apesar do desinteresse.",
+      "observacao_seguranca": "Não interrompa sono, alimentação ou necessidades de conforto.",
+      "fontes": [
+        {
+          "id": "F10",
+          "titulo": "Supporting Language and Literacy Skills from 0–12 Months",
+          "instituicao": "ZERO TO THREE",
+          "url": "https://www.zerotothree.org/resource/supporting-language-and-literacy-skills-from-0-12-months/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    },
+    {
+      "id": "A23",
+      "ideia_original": 23,
+      "grupo_original": "A",
+      "nome": "Sons que dizem algo",
+      "categoria": "Sons e palavras",
+      "faixa_etaria_fonte": "F12: 12–24 meses; F02 também reúne orientações para crianças até 3 anos.",
+      "habilidade_relacionada": "Uso de sons com significado",
+      "objetivo_educativo": "Explorar sons ligados a animais e situações de brincadeira.",
+      "materiais_necessarios": "Desenho próprio, imagem autorizada ou brinquedo grande e íntegro, opcionais.",
+      "preparacao": "Escolha um animal ou uma situação familiar.",
+      "passo_a_passo": [
+        "Mostre a imagem ou acompanhe a brincadeira.",
+        "Faça suavemente um som relacionado à situação.",
+        "Acolha qualquer participação, inclusive um som diferente.",
+        "Continue a brincadeira sem pedir reprodução."
+      ],
+      "duracao_aproximada": "2–4 minutos",
+      "como_facilitar": "Use um único som em uma situação familiar.",
+      "como_tornar_mais_desafiadora": "Inclua outro som ligado a um acontecimento da mesma brincadeira.",
+      "o_que_evitar": "Pedir precisão do som ou transformar a proposta em repetição de sílabas.",
+      "observacao_seguranca": "Evite volume alto, objetos pequenos e provocar quedas para produzir sons.",
+      "fontes": [
+        {
+          "id": "F02",
+          "titulo": "Help your baby learn to talk",
+          "instituicao": "NHS",
+          "url": "https://www.nhs.uk/baby/babys-development/play-and-learning/help-your-baby-learn-to-talk/"
+        },
+        {
+          "id": "F12",
+          "titulo": "Speech and language development — 12 to 24 months",
+          "instituicao": "Great Ormond Street Hospital",
+          "url": "https://www.gosh.nhs.uk/conditions-and-treatments/procedures-and-treatments/speech-and-language-development-12-24-months/"
+        }
+      ],
+      "aviso": "Esta é uma atividade educativa de apoio à interação e à linguagem. Não substitui avaliação, orientação ou tratamento profissional.",
+      "participacao": "Aceitar fala, gesto, som, apontar, olhar, movimento ou outra forma de comunicação. Não exigir resposta verbal.",
+      "regra_duracao": "Estimativa editorial opcional, não indicada pela fonte. Pode durar menos; encerrar ao sinal de desconforto ou desinteresse.",
+      "regra_faixa_etaria": "Referência do público da fonte, não critério de avaliação nem requisito de desempenho."
+    }
+  ]
+}
