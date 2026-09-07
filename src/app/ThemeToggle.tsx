@@ -14,7 +14,7 @@ export default function ThemeToggle() {
   return (
     <div className="controle-tema">
       <button type="button" onClick={alternarTema} aria-pressed={escuro}>
-        Modo escuro
+        {escuro ? "Modo claro" : "Modo escuro"}
       </button>
     </div>
   );

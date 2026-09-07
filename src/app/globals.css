@@ -29,60 +29,60 @@
 }
 
 html[data-theme="dark"] {
-  color-scheme: light;
+  color-scheme: dark;
 }
 
 html[data-theme="dark"] body {
-  background: #e6f3e8;
-  color: #1f4b35;
+  background: #173328;
+  color: #edf7f0;
 }
 
 html[data-theme="dark"] .aviso-apresentacao,
 html[data-theme="dark"] .cabecalho-escolha p,
 html[data-theme="dark"] .selecao-faixa > p {
-  color: #47745a;
+  color: #b9d5c4;
 }
 
 html[data-theme="dark"] .atividade-sugerida,
 html[data-theme="dark"] .selecao-faixa,
 html[data-theme="dark"] .selecao-faixa select,
 html[data-theme="dark"] .controle-tema button {
-  background: #f8fdf8;
-  color: #1f4b35;
-  border-color: #b5d6bd;
+  background: #224638;
+  color: #edf7f0;
+  border-color: #527764;
 }
 
 html[data-theme="dark"] .atividade-sugerida h2 {
-  border-color: #b5d6bd;
+  border-color: #527764;
 }
 
 html[data-theme="dark"] .selecao-faixa button:not(:disabled) {
-  background: #2f7a4d;
-  color: #ffffff;
-  border-color: #2f7a4d;
+  background: #82c99b;
+  color: #123024;
+  border-color: #82c99b;
 }
 
 html[data-theme="dark"] .selecao-faixa button:hover:not(:disabled) {
-  background: #25663f;
+  background: #9bd8ae;
 }
 
 html[data-theme="dark"] .selecao-faixa button:disabled {
-  background: #d8e9dc;
-  color: #54735e;
-  border-color: #b5d6bd;
+  background: #304f42;
+  color: #aec4b7;
+  border-color: #527764;
 }
 
 html[data-theme="dark"] .aviso-atividade {
-  background: #e2f0e5;
-  border-color: #80ad8d;
+  background: #2b4c3e;
+  border-color: #79a88a;
 }
 
 html[data-theme="dark"] .atividade-sugerida a {
-  color: #236842;
+  color: #a7dfb8;
 }
 
 html[data-theme="dark"] :focus-visible {
-  outline-color: #236842;
+  outline-color: #a7dfb8;
 }
 
 html,
