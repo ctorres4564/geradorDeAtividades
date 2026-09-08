@@ -29,4 +29,12 @@ export const FAIXAS_POR_ATIVIDADE: Record<
   A19: ["0 a 12 meses"],
   A20: ["0 a 12 meses"],
   A23: ["1 a 2 anos", "2 a 3 anos"],
+  A24: ["3 a 5 anos"],
+  A25: ["3 a 5 anos"],
+  A26: ["3 a 5 anos"],
+  A27: ["3 a 5 anos"],
+  A28: ["3 a 5 anos"],
+  A29: ["3 a 5 anos"],
+  A30: ["3 a 5 anos"],
+  A31: ["3 a 5 anos"],
 };
