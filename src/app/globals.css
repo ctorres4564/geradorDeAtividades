@@ -15,16 +15,16 @@
 .controle-tema button {
   min-height: 44px;
   padding: 0.5rem 1rem;
-  border: 1px solid #a5b6ae;
+  border: 1px solid #e4daea;
   border-radius: 0.75rem;
   background: #ffffff;
-  color: #263b36;
+  color: #2c1240;
   font: inherit;
   cursor: pointer;
 }
 
 .controle-tema button:focus-visible {
-  outline: 3px solid #286451;
+  outline: 3px solid #6d3b93;
   outline-offset: 3px;
 }
 
@@ -33,56 +33,56 @@ html[data-theme="dark"] {
 }
 
 html[data-theme="dark"] body {
-  background: #173328;
-  color: #edf7f0;
+  background: #21152a;
+  color: #fbfaf7;
 }
 
 html[data-theme="dark"] .aviso-apresentacao,
 html[data-theme="dark"] .cabecalho-escolha p,
 html[data-theme="dark"] .selecao-faixa > p {
-  color: #b9d5c4;
+  color: #ddd0e6;
 }
 
 html[data-theme="dark"] .atividade-sugerida,
 html[data-theme="dark"] .selecao-faixa,
 html[data-theme="dark"] .selecao-faixa select,
 html[data-theme="dark"] .controle-tema button {
-  background: #224638;
-  color: #edf7f0;
-  border-color: #527764;
+  background: #2c1240;
+  color: #fbfaf7;
+  border-color: #6d557a;
 }
 
 html[data-theme="dark"] .atividade-sugerida h2 {
-  border-color: #527764;
+  border-color: #6d557a;
 }
 
 html[data-theme="dark"] .selecao-faixa button:not(:disabled) {
-  background: #82c99b;
-  color: #123024;
-  border-color: #82c99b;
+  background: #c8a96a;
+  color: #2c1240;
+  border-color: #c8a96a;
 }
 
 html[data-theme="dark"] .selecao-faixa button:hover:not(:disabled) {
-  background: #9bd8ae;
+  background: #d8bd86;
 }
 
 html[data-theme="dark"] .selecao-faixa button:disabled {
-  background: #304f42;
-  color: #aec4b7;
-  border-color: #527764;
+  background: #4a3656;
+  color: #cbbfd2;
+  border-color: #6d557a;
 }
 
 html[data-theme="dark"] .aviso-atividade {
-  background: #2b4c3e;
-  border-color: #79a88a;
+  background: #3a2548;
+  border-color: #c8a96a;
 }
 
 html[data-theme="dark"] .atividade-sugerida a {
-  color: #a7dfb8;
+  color: #e8d5a8;
 }
 
 html[data-theme="dark"] :focus-visible {
-  outline-color: #a7dfb8;
+  outline-color: #c8a96a;
 }
 
 html,
@@ -92,8 +92,8 @@ body {
 }
 
 body {
-  background: #f5f7f6;
-  color: #263b36;
+  background: #fbfaf7;
+  color: #2c1240;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
 }
@@ -116,12 +116,21 @@ p {
   font-size: 1.125rem;
 }
 
+.identificacao-recurso {
+  margin-bottom: 0.5rem;
+  color: #6d3b93;
+  font-size: 0.875rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
 .selecao-faixa {
   display: grid;
   gap: 0.875rem;
   margin-top: 2rem;
   padding: 1.5rem;
-  border: 1px solid #dce5df;
+  border: 1px solid #e4daea;
   border-radius: 1rem;
   background: #ffffff;
 }
@@ -132,8 +141,10 @@ p {
 
 .apresentacao .aviso-apresentacao {
   margin-top: 0.875rem;
+  padding-left: 0.875rem;
+  border-left: 3px solid #c8a96a;
   font-size: 0.9375rem;
-  color: #52665f;
+  color: #5d4d68;
 }
 
 .cabecalho-escolha {
@@ -148,7 +159,7 @@ p {
 
 .cabecalho-escolha p,
 .selecao-faixa > p {
-  color: #52665f;
+  color: #5d4d68;
   font-size: 1rem;
 }
 
@@ -167,7 +178,7 @@ p {
   min-width: 0;
   min-height: 3.25rem;
   padding: 0.75rem 1rem;
-  border: 1px solid #a5b6ae;
+  border: 1px solid #cbbdd4;
   border-radius: 0.75rem;
   background: #ffffff;
   color: inherit;
@@ -177,29 +188,29 @@ p {
 .selecao-faixa button {
   cursor: pointer;
   margin-top: 0.375rem;
-  background: #286451;
-  border-color: #286451;
+  background: #6d3b93;
+  border-color: #6d3b93;
   color: #ffffff;
   font-weight: 700;
   min-height: 3.5rem;
 }
 
 .selecao-faixa button:hover:not(:disabled) {
-  background: #20513f;
+  background: #572f76;
 }
 
 .selecao-faixa select:focus-visible,
 .selecao-faixa button:focus-visible,
 .atividade-sugerida a:focus-visible {
-  outline: 3px solid #286451;
+  outline: 3px solid #6d3b93;
   outline-offset: 3px;
 }
 
 .selecao-faixa button:disabled {
   cursor: not-allowed;
-  color: #626e68;
-  background: #e5ebe7;
-  border-color: #cdd7d0;
+  color: #746b79;
+  background: #f2edf5;
+  border-color: #e4daea;
 }
 
 .atividade-sugerida {
@@ -207,7 +218,7 @@ p {
   gap: 1.5rem;
   margin-top: 1.25rem;
   padding: 2rem;
-  border: 1px solid #dce5df;
+  border: 1px solid #e4daea;
   border-radius: 1rem;
   background: #ffffff;
   min-width: 0;
@@ -224,7 +235,7 @@ p {
   font-size: 1.625rem;
   line-height: 1.3;
   padding-bottom: 1.25rem;
-  border-bottom: 1px solid #e2e9e4;
+  border-bottom: 1px solid #e4daea;
 }
 
 .atividade-sugerida h3 {
@@ -244,14 +255,14 @@ p {
 
 .aviso-atividade {
   padding: 1rem;
-  border-left: 3px solid #9eafa3;
+  border-left: 3px solid #c8a96a;
   border-radius: 0 0.5rem 0.5rem 0;
-  background: #f1f5f2;
+  background: #f2edf5;
   font-size: 1rem;
 }
 
 .atividade-sugerida a {
-  color: #24614e;
+  color: #6d3b93;
   text-underline-offset: 0.2em;
 }
 
