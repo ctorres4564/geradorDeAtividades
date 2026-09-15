@@ -37,9 +37,17 @@ export default function Home() {
     <main>
       <ThemeToggle />
       <header className="apresentacao">
-        <h1>Gerador de Atividades Educativas para Linguagem</h1>
-        <p>Encontre sugestões simples de brincadeiras, conversas e atividades para estimular o contato da criança com a linguagem no dia a dia.</p>
-        <p className="aviso-apresentacao">As sugestões são educativas e lúdicas, baseadas em fontes públicas e confiáveis. Não substituem avaliação ou acompanhamento profissional.</p>
+        <p className="identificacao-recurso">Recurso gratuito · Sônia Torres</p>
+        <h1>Atividades educativas para linguagem</h1>
+        <p>
+          Consulte um acervo curado de atividades educativas e lúdicas para criar
+          oportunidades de comunicação e interação no cotidiano. Escolha a faixa
+          etária e o tipo de atividade para encontrar uma sugestão do acervo.
+        </p>
+        <p className="aviso-apresentacao">
+          Este é um recurso educativo. As atividades não substituem avaliação ou
+          acompanhamento de um profissional habilitado.
+        </p>
       </header>
       <FaixaEtariaSelect
         faixasEtarias={faixasEtarias}
