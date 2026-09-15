@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { initAnalytics, trackActivityReceived } from "./analytics";
 
 type FaixaEtariaSelectProps = {
   faixasEtarias: readonly string[];
@@ -62,6 +63,11 @@ export default function FaixaEtariaSelect({
   const [atividadeSugerida, setAtividadeSugerida] = useState<
     FaixaEtariaSelectProps["atividades"][number] | null
   >(null);
+
+  useEffect(() => {
+    initAnalytics();
+  }, []);
+
   const atividadesCompativeis = atividades.filter(
     (atividade) =>
       atividade.categoria === categoriaSelecionada &&
@@ -82,6 +88,7 @@ export default function FaixaEtariaSelect({
       : atividadesCompativeis;
     const indice = Math.floor(Math.random() * candidatas.length);
     setAtividadeSugerida(candidatas[indice]);
+    trackActivityReceived();
   }
 
   return (
